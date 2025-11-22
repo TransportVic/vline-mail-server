@@ -1,8 +1,8 @@
 {
-  "name": "vline-mail-server",
-  "version": "1.0.0",
+  "name": "@transportme/vline-mail-server",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.mjs",
   "scripts": {
     "test": "mocha"
   },
